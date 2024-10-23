@@ -1,0 +1,21 @@
+.div1{
+    width:100px;
+    height:80px;
+    background-color:gold;
+    top:90px;
+    left:30px;
+}
+.div2{
+    width:100px;
+    height:80px;
+    background-color:black;
+    top:200px;
+    left:60px;
+}
+.div3{
+    width:150px;
+    height:100px;
+    background-color:silver;
+    top:90px;
+    left:90px;
+}
